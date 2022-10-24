@@ -1,4 +1,4 @@
-## Olaaa eu sou o Eliander Campos, desenvolvedor mobile e apaixonado por tecnologia!
+## Hello, i'm Eliander Campos, i'm Mobile Developer with experience in various IT sectors
 <div align="center">
   <a href="https://github.com/eliander1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliander1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
